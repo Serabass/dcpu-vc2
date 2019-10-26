@@ -1,0 +1,11 @@
+﻿  clock.cpp
+  cpu.cpp
+  hardware.cpp
+  memory.cpp
+  dcpuvc2.cpp
+D:\_dev\cpp\dcpu-vc2\dcpu-vc2\dcpu16-deibit\hardware.cpp(20,47): warning C4333: '>>': right shift by too large amount, data loss
+  VCPU.cpp
+D:\_dev\cpp\dcpu-vc2\dcpu-vc2\dcpu-vc2\dcpuvc2.cpp(67,39): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  dcpu-vc2.vcxproj -> D:\Program Files (x86)\Grand Theft Auto Vice City\dcpuvc2.VC.asi
